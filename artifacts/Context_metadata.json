@@ -19,7 +19,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"ERC721_flat.sol": "Context"
+			"ERC20_flat.sol": "Context"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -33,12 +33,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"ERC721_flat.sol": {
-			"keccak256": "0x715783f927213aea7d293234d9b2eca45d63f3ae65c609a2351b6d4d90c21581",
+		"ERC20_flat.sol": {
+			"keccak256": "0x0777bba52156ab7b030d92c69c46a6f31bc9914624b56eb36f4df2a78145779b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://9a4a4ac815bd57e05dc4692843f6c69d1df50fc811b1a83c703135f6b925ae01",
-				"dweb:/ipfs/QmZQveD8K3yU13dUPWFBLqcXZGTWLC4j4hycYJyY9H8ikh"
+				"bzz-raw://de2c8382ef936c18332b9473277a71693151d9ade32860e6346a84807e3ef00b",
+				"dweb:/ipfs/QmbNQ9weQAU2cj5H39VMGPr9wEW22jTJTxQ92Lcjif43id"
 			]
 		}
 	},
